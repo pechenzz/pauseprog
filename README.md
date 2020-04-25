@@ -8,7 +8,7 @@ use **pause(prompt, 0/1)**
 
 Change prompt to *your prompt*!
 
-Example: '''pause('Ello: ')'''
+Example: **pause('Ello: ')**
 
 Output: ***"Ello: "***
 
