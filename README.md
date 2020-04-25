@@ -4,16 +4,16 @@ PauseProg
 
 
 
-use pause(prompt, 0/1)
+use **pause(prompt, 0/1)**
 
-Change prompt to your prompt!
+Change prompt to *your prompt*!
 
-Example: pause('Ello: ')
+Example: '''pause('Ello: ')'''
 
-Output: "Ello: "
+Output: ***"Ello: "***
 
-After user presses enter, the program will continue the code, or exit, if you want to!
+After user presses *Enter*, the program will continue the code, or exit, if you want to!
 
-0 is for no quit
+*0* is for no quit
 
-1 is for yes quit
+*1* is for yes quit
